@@ -3,6 +3,7 @@ Basic MERN application that handles CRUD operations of employees while storing t
 <p align="center">
   <img src="public/admin-demo.png" height=400px>
 </p>
+
 ### Getting Started
 To run this project on your local machine, follow these steps:
 1. Start by cloning the repository.
